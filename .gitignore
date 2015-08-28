@@ -1,7 +1,8 @@
 #ignore data folder
 data
 .ipynb_checkpoints
-
+#ignore the output folder
+output
 
 
 
